@@ -1,0 +1,18 @@
+[project]
+name = "01-ai-agent-for-ecommerce"
+version = "0.1.0"
+description = "AI Agent for E-commerce"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.22.0",
+    "groq>=0.29.0",
+    "openai>=1.92.3",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.1",
+    "streamlit>=1.46.1",
+]
+
+[tool.uv]
+link-mode = "copy"
+
