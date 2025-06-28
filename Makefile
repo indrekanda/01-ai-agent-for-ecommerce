@@ -9,8 +9,11 @@ check-streamlit:
 build-docker-streamlit:
 	docker build -t streamlit-app:latest .
 
-# #docker run -v ${PWD}/.env:/app/.env -p 8501:8501 streamlit-app:latest
-# PWD fails, using absolute path
+# # In WSL
+# run-docker-streamlit:
+# 	docker run -v ${PWD}/.env:/app/.env -p 8501:8501 streamlit-app:latest
+
+# In cmd or powershell, PWD fails, using absolute path
 run-docker-streamlit:
 	docker run -v "D:/Projects/_courses/end-to-end-ai-engineering-bootcamp/01-ai-agent-for-ecommerce/.env:/app/.env" -p 8501:8501 streamlit-app:latest
 
