@@ -153,7 +153,7 @@ A phased, iterative deployment is planned. (not sure yet)
 
 ---
 
-###  Timeline icon Timeline & Milestones
+###  Timeline & Milestones
 - Week 1 | Jun 23—Jun 29 | Sprint 0 – Problem Framing & Infrastructure Setup
 - Week 2 | Jun 30—Jul 6  | Sprint 1 – Build the First Working RAG Prototype
 - Week 3 | Jul 7—Jul 13  | Sprint 2 – Retrieval Quality & Prompt Engineering
