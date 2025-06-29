@@ -5,7 +5,7 @@ To run locally:
 1. Create venv: `uv sync`
 2. Activate: `.venv\Scripts\activate`
 4. Copy .env to root dir
-3. Run app: `make run-streamlit`
+3. Run app (change working dir path in Makefile): `make run-streamlit`
 
 
 
