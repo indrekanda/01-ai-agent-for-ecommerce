@@ -159,8 +159,8 @@ A phased, iterative deployment is planned. (not sure yet)
 - Week 3 | Jul 7—Jul 13  | Sprint 2 – Retrieval Quality & Prompt Engineering
 - Week 4 | Jul 14—Jul 20 | Sprint 3 – Moving From Basic To Agentic RAG
 - Week 5 | Jul 21—Jul 27 | Sprint 4 – Agents & Agentic Systems
- 		        **<Jul 28 - Aug 11: oof>**
+-  		        <Jul 28 - Aug 11: OOF>
 - Week 6* | Jul 28—Aug 3  | Sprint 5 – Multi-Agent Systems
 - Week 7* | Aug 4—Aug 10  | Sprint 6 – Deployment, Optimization and Reliability
 - Week 8* | Aug 11—Aug 17 | Sprint 7 – Final Demo & Capstone Delivery
-* +2-3 weeks
+`*` +2-3 weeks
