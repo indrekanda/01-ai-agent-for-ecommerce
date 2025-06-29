@@ -1,7 +1,13 @@
 # AI-powered Web Shop
 ---
 
-TODO: Add description and instructions
+To run locally:
+1. Create venv: `uv sync`
+2. Activate: `.venv\Scripts\activate`
+4. Copy .env to root dir
+3. Run app: `make run-streamlit`
+
+
 
 P.S. AI project canvas in _project-info
 
