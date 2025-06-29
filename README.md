@@ -1,6 +1,8 @@
 # AI-powered Web Shop
 ---
-1. Streamlit app for generig chat
+
+TODO: Add description and instructions
+P.S. AI project canvas in _project-info
 
 ---
 ### Acknowledgements and Citations
