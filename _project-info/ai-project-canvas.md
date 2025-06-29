@@ -143,7 +143,7 @@ A phased, iterative deployment is planned. (not sure yet)
 11. Automated stock booking: When an order is placed, automatically reserve the items from the correct warehouse inventory.
 12. Delivery route optimization: For a batch of daily orders, calculate the most efficient delivery route.
 
-**Phase 4: Advanced & Proactive Features**
+**Phase 4: Advanced & proactive features**
 (Focus: Adding proactive and other features that enhance marketing and customer service.)
 
 13. Dynamic marketing & promotions: Automatically offer targeted promotions to users (e.g., "As our 100th customer today, you get a 10% discount!").
